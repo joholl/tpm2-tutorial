@@ -117,7 +117,7 @@ html_favicon = "favicon.svg"
 # "Edit on Github" link in the top right corner
 html_context = {
   'display_github': True,
-  'github_user': 'tpm2-software',
+  'github_user': 'joholl',
   'github_repo': 'tpm2-tutorial',
   'github_version': 'master/source/',
 }
